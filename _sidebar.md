@@ -1,5 +1,3 @@
-- OnlineJudge
-
   - Hướng dẫn sử dụng
     - [Cài đặt](onlinejudge/guide/install.md)
     - [测试用例格式](onlinejudge/guide/test_case.md)
