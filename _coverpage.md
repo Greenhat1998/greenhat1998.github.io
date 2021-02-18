@@ -9,4 +9,4 @@
 
 
 [GitHub](https://github.com/Greenhat1998/onlinejudge)
-[Get Started](/onlinejudge/guide/install)
+[Get Started](/onlinejudge/install)
