@@ -1,4 +1,4 @@
-# T07 OnlineJudge Documents
+# Greenhat OnlineJudge Documents
 
 ## Mã nguồn hệ thống
 
