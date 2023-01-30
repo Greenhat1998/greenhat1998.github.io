@@ -1,4 +1,4 @@
-# T36 OnlineJudge <small>1.0</small>
+# Greenhat OnlineJudge <small>1.0</small>
 
 > An open source online judge system based on Linux/Nginx/MySQL/PHP/C++
 
