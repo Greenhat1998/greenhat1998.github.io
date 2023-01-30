@@ -1,6 +1,6 @@
-# OnlineJudge <small>2.0</small>
+# Greenhat Online Judge <small>1.0</small>
 
-> An open source online judge system based on Python and Vue
+> Greenhat Online Judge là hệ thống chấm điểm lập trình trực tuyến được phát triển bởi Khoa Công nghệ thông tin - Trường Đại học Kỹ thuật Hậu cần CAND.
 
 - Based on Docker; One-click deployment
 - ACM/OI rule support; realtime/non-realtime rank support
